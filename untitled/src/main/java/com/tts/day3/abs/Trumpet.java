@@ -5,4 +5,6 @@ public class Trumpet extends Instrument {
     public void createSound() {
         System.out.println("Trumpet goes womp");
     }
+
+
 }
